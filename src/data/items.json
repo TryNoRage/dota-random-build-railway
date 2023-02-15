@@ -1,0 +1,380 @@
+[
+    {
+        "id": 1,
+        "name": "Abyssal Blade",
+        "image": "../images/items/abyssal_blade.png",
+        "isUniq": false
+    },
+    {
+        "id": 2,
+        "name": "Aeon Disk",
+        "image": "../images/items/abyssal_blade.png",
+        "isUniq": false
+    },
+    {
+        "id": 3,
+        "name": "Aghanim's Scepter",
+        "image": "../images/items/aghanim's_scepter.png",
+        "isUniq": false
+    },
+    {
+        "id": 4,
+        "name": "Arcane Blink",
+        "image": "../images/items/arcane_blink.png",
+        "isUniq": false
+    },
+    {
+        "id": 5,
+        "name": "Armlet of Mordiggian",
+        "image": "../images/items/armlet_of_mordiggian.png",
+        "isUniq": false
+    },
+    {
+        "id": 6,
+        "name": "Assault Cuirass",
+        "image": "../images/items/assault_cuirass.png",
+        "isUniq": false
+    },
+    {
+        "id": 7,
+        "name": "Battle Fury",
+        "image": "../images/items/battle_fury.png",
+        "isUniq": false
+    },
+    {
+        "id": 8,
+        "name": "Black King Bar",
+        "image": "../images/items/battle_fury.png",
+        "isUniq": false
+    },
+    {
+        "id": 9,
+        "name": "Blade_mail",
+        "image": "../images/items/blade_mail.png",
+        "isUniq": false
+    },
+    {
+        "id": 10,
+        "name": "Bloodstone",
+        "image": "../images/items/bloodstone.png",
+        "isUniq": false
+    },
+    {
+        "id": 11,
+        "name": "Bloodthorn",
+        "image": "../images/items/bloodthorn.png",
+        "isUniq": false
+    },
+    {
+        "id": 12,
+        "name": "Boots of Travel 2",
+        "image": "../images/items/boots_of_travel_2.png",
+        "isUniq": true
+    },
+    {
+        "id": 13,
+        "name": "Butterfly",
+        "image": "../images/items/butterfly.png",
+        "isUniq": false
+    },
+    {
+        "id": 13,
+        "name": "Butterfly",
+        "image": "../images/items/butterfly.png",
+        "isUniq": false
+    },
+    {
+        "id": 14,
+        "name": "Crimson Guard",
+        "image": "../images/items/crimson_guard.png",
+        "isUniq": false
+    },
+    {
+        "id": 15,
+        "name": "Daedalus",
+        "image": "../images/items/daedalus.png",
+        "isUniq": false
+    },
+    {
+        "id": 15,
+        "name": "Dagon 5",
+        "image": "../images/items/dagon_5.png",
+        "isUniq": false
+    },
+    {
+        "id": 16,
+        "name": "Desolator",
+        "image": "../images/items/desolator.png",
+        "isUniq": false
+    },
+    {
+        "id": 17,
+        "name": "Diffusal Blade",
+        "image": "../images/items/diffusal_blade.png",
+        "isUniq": false
+    },
+    {
+        "id": 18,
+        "name": "Divine Rapier",
+        "image": "../images/items/divine_rapier.png",
+        "isUniq": false
+    },
+    {
+        "id": 19,
+        "name": "Echo Sabre",
+        "image": "../images/items/echo_sabre.png",
+        "isUniq": false
+    },
+    {
+        "id": 20,
+        "name": "Eternal Shroud",
+        "image": "../images/items/eternal_shroud.png",
+        "isUniq": false
+    },
+    {
+        "id": 21,
+        "name": "Ethereal Blade",
+        "image": "../images/items/ethereal_blade.png",
+        "isUniq": false
+    },
+    {
+        "id": 22,
+        "name": "Eye of Skadi",
+        "image": "../images/items/eye_of_skadi.png",
+        "isUniq": false
+    },
+    {
+        "id": 23,
+        "name": "Gleipnir",
+        "image": "../images/items/gleipnir.png",
+        "isUniq": false
+    },
+    {
+        "id": 24,
+        "name": "Glimmer Cape",
+        "image": "../images/items/glimmer_cape.png",
+        "isUniq": false
+    },
+    {
+        "id": 25,
+        "name": "Guardian Greaves",
+        "image": "../images/items/guardian_greaves.png",
+        "isUniq": true
+    },
+    {
+        "id": 26,
+        "name": "Heart of Tarrasque",
+        "image": "../images/items/heart_of_tarrasque.png",
+        "isUniq": false
+    },
+    {
+        "id": 27,
+        "name": "Heavens Halberd",
+        "image": "../images/items/heavens_halberd.png",
+        "isUniq": false
+    },
+    {
+        "id": 28,
+        "name": "Helm of the Overlord",
+        "image": "../images/items/helm_of_the_overlord.png",
+        "isUniq": false
+    },
+    {
+        "id": 29,
+        "name": "Holy Locket",
+        "image": "../images/items/holy_locket.png",
+        "isUniq": false
+    },
+    {
+        "id": 30,
+        "name": "Hurricane Pike",
+        "image": "../images/items/hurricane_pike.png",
+        "isUniq": false
+    },
+    {
+        "id": 31,
+        "name": "Kaya and Sange",
+        "image": "../images/items/kaya_and_sange.png",
+        "isUniq": false
+    },
+    {
+        "id": 32,
+        "name": "Linkens Sphere",
+        "image": "../images/items/linkens_sphere.png",
+        "isUniq": false
+    },
+    {
+        "id": 33,
+        "name": "Lotus Orb",
+        "image": "../images/items/lotus_orb.png",
+        "isUniq": false
+    },
+    {
+        "id": 34,
+        "name": "Manta Style",
+        "image": "../images/items/manta_style.png",
+        "isUniq": false
+    },
+    {
+        "id": 35,
+        "name": "Mask of Madness",
+        "image": "../images/items/mask_of_madness.png",
+        "isUniq": false
+    },
+    {
+        "id": 36,
+        "name": "Meteor Hammer",
+        "image": "../images/items/meteor_hammer.png",
+        "isUniq": false
+    },
+    {
+        "id": 37,
+        "name": "Mjollnir",
+        "image": "../images/items/mjollnir.png",
+        "isUniq": false
+    },
+    {
+        "id": 38,
+        "name": "Monkey King Bar",
+        "image": "../images/items/monkey_king_bar.png",
+        "isUniq": false
+    },
+    {
+        "id": 39,
+        "name": "Moon Shard",
+        "image": "../images/items/moon_shard.png",
+        "isUniq": false
+    },
+    {
+        "id": 40,
+        "name": "Nullifier",
+        "image": "../images/items/nullifier.png",
+        "isUniq": false
+    },
+    {
+        "id": 41,
+        "name": "Octarine Core",
+        "image": "../images/items/octarine_core.png",
+        "isUniq": false
+    },
+    {
+        "id": 42,
+        "name": "Overwhelming Blink",
+        "image": "../images/items/overwhelming_blink.png",
+        "isUniq": false
+    },
+    {
+        "id": 44,
+        "name": "Phase Boots",
+        "image": "../images/items/phase_boots.png",
+        "isUniq": true
+    },
+    {
+        "id": 45,
+        "name": "Pipe of Insight",
+        "image": "../images/items/pipe_of_insight.png",
+        "isUniq": false
+    },
+    {
+        "id": 46,
+        "name": "Power Treads",
+        "image": "../images/items/power_treads.png",
+        "isUniq": true
+    },
+    {
+        "id": 47,
+        "name": "Radiance",
+        "image": "../images/items/radiance.png",
+        "isUniq": false
+    },
+    {
+        "id": 48,
+        "name": "Refresher Orb",
+        "image": "../images/items/refresher_orb.png",
+        "isUniq": false
+    },
+    {
+        "id": 49,
+        "name": "Revenant's brooch",
+        "image": "../images/items/revenant's_brooch.png",
+        "isUniq": false
+    },
+    {
+        "id": 50,
+        "name": "Sange and Yasha",
+        "image": "../images/items/sange_and_yasha.png",
+        "isUniq": false
+    },
+    {
+        "id": 51,
+        "name": "Satanic",
+        "image": "../images/items/satanic.png",
+        "isUniq": false
+    },
+    {
+        "id": 52,
+        "name": "Scythe of Vyse",
+        "image": "../images/items/scythe_of_vyse.png",
+        "isUniq": false
+    },
+    {
+        "id": 53,
+        "name": "Shiva's Guard",
+        "image": "../images/items/shiva's_guard.png",
+        "isUniq": false
+    },
+    {
+        "id": 54,
+        "name": "Silver Edge",
+        "image": "../images/items/silver_edge.png",
+        "isUniq": false
+    },
+    {
+        "id": 55,
+        "name": "Solar Crest",
+        "image": "../images/items/solar_crest.png",
+        "isUniq": false
+    },
+    {
+        "id": 56,
+        "name": "Spirit Vessel",
+        "image": "../images/items/spirit_vessel.png",
+        "isUniq": false
+    },
+    {
+        "id": 57,
+        "name": "Swift Blink",
+        "image": "../images/items/swift_blink.png",
+        "isUniq": false
+    },
+    {
+        "id": 58,
+        "name": "Tranquil Boots",
+        "image": "../images/items/tranquil_boots.png",
+        "isUniq": true
+    },
+    {
+        "id": 59,
+        "name": "Veil of Discord",
+        "image": "../images/items/veil_of_discord.png",
+        "isUniq": false
+    },
+    {
+        "id": 60,
+        "name": "Wind Waker",
+        "image": "../images/items/wind_waker.png",
+        "isUniq": false
+    },
+    {
+        "id": 61,
+        "name": "Wraith Pact",
+        "image": "../images/items/wraith_pact.png",
+        "isUniq": false
+    },
+    {
+        "id": 61,
+        "name": "Yasha and Kaya",
+        "image": "../images/items/yasha_and_kaya.png",
+        "isUniq": false
+    }
+]

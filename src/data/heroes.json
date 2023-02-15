@@ -1,0 +1,740 @@
+[
+    {
+        "id": 1,
+        "name": "Anti-Mage",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/antimage.png"
+    },
+    {
+        "id": 2,
+        "name": "Abaddon",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/abaddon.png"
+    },
+    {
+        "id": 3,
+        "name": "Ancient Apparition",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/ancient_apparition.png"
+    },
+    {
+        "id": 4,
+        "name": "Alcemist",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/alchemist.png"
+    },
+    {
+        "id": 5,
+        "name": "Arc Warden",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/arc_warden.png"
+    },
+    {
+        "id": 6,
+        "name": "Axe",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/axe.png"
+    },
+    {
+        "id": 7,
+        "name": "Bane",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/bane.png"
+    },
+    {
+        "id": 8,
+        "name": "Batrider",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/batrider.png"
+    },
+    {
+        "id": 9,
+        "name": "Beastmaster",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/beastmaster.png"
+    },
+    {
+        "id": 10,
+        "name": "Bloodseeker",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/bloodseeker.png"
+    },
+    {
+        "id": 11,
+        "name": "Bounty Hunter",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/bounty_hunter.png"
+    },
+    {
+        "id": 12,
+        "name": "Brewmaster",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/brewmaster.png"
+    },
+    {
+        "id": 13,
+        "name": "Bristleback",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/bristleback.png"
+    },
+    {
+        "id": 14,
+        "name": "Broodmother",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/broodmother.png"
+    },
+    {
+        "id": 15,
+        "name": "Centaur Warrunner",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/centaur.png"
+    },
+    {
+        "id": 16,
+        "name": "Chaos Kngiht",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/chaos_knight.png"
+    },
+    {
+        "id": 17,
+        "name": "Chen",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/chen.png"
+    },
+    {
+        "id": 18,
+        "name": "Clinkz",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/clinkz.png"
+    },
+    {
+        "id": 19,
+        "name": "Clockwerk",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/clockwerk.png"
+    },
+    {
+        "id": 20,
+        "name": "Crystal Maiden",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/crystal_maiden.png"
+    },
+    {
+        "id": 21,
+        "name": "Dark Seer",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/dark_seer.png"
+    },
+    {
+        "id": 22,
+        "name": "Dark Willow",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/dark_willow.png"
+    },
+    {
+        "id": 23,
+        "name": "Dawnbreaker",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/dawnbreaker.png"
+    },
+    {
+        "id": 24,
+        "name": "Dazzle",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/dazzle.png"
+    },
+    {
+        "id": 25,
+        "name": "Death Prophet",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/death_prophet.png"
+    },
+    {
+        "id": 26,
+        "name": "Disruptor",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/disruptor.png"
+    },
+    {
+        "id": 27,
+        "name": "Doom",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/doom_bringer.png"
+    },
+    {
+        "id": 28,
+        "name": "Dragon Knight",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/dragon_knight.png"
+    },
+    {
+        "id": 29,
+        "name": "Drow Ranger",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/drow_ranger.png"
+    },
+    {
+        "id": 30,
+        "name": "Earth Spirit",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/earth_spirit.png"
+    },
+    {
+        "id": 31,
+        "name": "Earthshaker",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/earthshaker.png"
+    },
+    {
+        "id": 32,
+        "name": "Elder Titan",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/elder_titan.png"
+    },
+    {
+        "id": 33,
+        "name": "Ember Spirit",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/ember_spirit.png"
+    },
+    {
+        "id": 34,
+        "name": "Enchantress",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/enchantress.png"
+    },
+    {
+        "id": 35,
+        "name": "Enigma",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/enigma.png"
+    },
+    {
+        "id": 36,
+        "name": "Faceless Void",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/faceless_void.png"
+    },
+    {
+        "id": 37,
+        "name": "Grimstroke",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/grimstroke.png"
+    },
+    {
+        "id": 38,
+        "name": "Gyrocopter",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/gyrocopter.png"
+    },
+    {
+        "id": 39,
+        "name": "Hoodwink",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/hoodwink.png"
+    },
+    {
+        "id": 40,
+        "name": "Huskar",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/huskar.png"
+    },
+    {
+        "id": 41,
+        "name": "Invoker",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/invoker.png"
+    },
+    {
+        "id": 42,
+        "name": "Jakiro",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/jakiro.png"
+    },
+    {
+        "id": 43,
+        "name": "Juggernaut",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/jakiro.png"
+    },
+    {
+        "id": 44,
+        "name": "Keeper Of The Light",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/keeper_of_the_light.png"
+    },
+    {
+        "id": 45,
+        "name": "Kunkka",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/kunkka.png"
+    },
+    {
+        "id": 46,
+        "name": "Legion Commander",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/legion_commander.png"
+    },
+    {
+        "id": 47,
+        "name": "Leshrac",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/leshrac.png"
+    },
+    {
+        "id": 48,
+        "name": "Lich",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/lich.png"
+    },
+    {
+        "id": 49,
+        "name": "Lifestealer",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/lifestealer.png"
+    },
+    {
+        "id": 50,
+        "name": "Lina",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/lina.png"
+    },
+    {
+        "id": 51,
+        "name": "Lion",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/lion.png"
+    },
+    {
+        "id": 52,
+        "name": "Lone Druid",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/lone_druid.png"
+    },
+    {
+        "id": 53,
+        "name": "Luna",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/luna.png"
+    },
+    {
+        "id": 54,
+        "name": "Lycan",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/lycan.png"
+    },
+    {
+        "id": 55,
+        "name": "Magnus",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/magnus.png"
+    },
+    {
+        "id": 56,
+        "name": "Marci",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/marci.png"
+    },
+    {
+        "id": 57,
+        "name": "Mars",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/mars.png"
+    },
+    {
+        "id": 58,
+        "name": "Medusa",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/medusa.png"
+    },
+    {
+        "id": 59,
+        "name": "Meepo",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/meepo.png"
+    },
+    {
+        "id": 60,
+        "name": "Mirana",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/mirana.png"
+    },
+    {
+        "id": 61,
+        "name": "Monkey King",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/monkey_king.png"
+    },
+    {
+        "id": 62,
+        "name": "Morphling",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/morphling.png"
+    },
+    {
+        "id": 63,
+        "name": "Naga Siren",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/naga_siren.png"
+    },
+    {
+        "id": 64,
+        "name": "Natures Prophet",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/natures_prophet.png"
+    },
+    {
+        "id": 65,
+        "name": "Necrophos",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/necrophos.png"
+    },
+    {
+        "id": 66,
+        "name": "Shadow Fiend",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/nevermore.png"
+    },
+    {
+        "id": 67,
+        "name": "Night Stalker",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/night_stalker.png"
+    },
+    {
+        "id": 68,
+        "name": "Nyx Assassin",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/nyx_assassin.png"
+    },
+    {
+        "id": 69,
+        "name": "Ogre Magi",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/ogre_magi.png"
+    },
+    {
+        "id": 70,
+        "name": "Omniknight",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/omniknight.png"
+    },
+    {
+        "id": 71,
+        "name": "Oracle",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/oracle.png"
+    },
+    {
+        "id": 72,
+        "name": "Outworld Destroyer",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/outworld_destroyer.png"
+    },
+    {
+        "id": 73,
+        "name": "Pangolier",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/pangolier.png"
+    },
+    {
+        "id": 74,
+        "name": "Phantom Assassin",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/phantom_assassin.png"
+    },
+    {
+        "id": 75,
+        "name": "Phantom Lancer",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/phantom_lancer.png"
+    },
+    {
+        "id": 76,
+        "name": "Phoenix",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/phoenix.png"
+    },
+    {
+        "id": 77,
+        "name": "Primal Beast",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/primal_beast.png"
+    },
+    {
+        "id": 78,
+        "name": "Puck",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/puck.png"
+    },
+    {
+        "id": 79,
+        "name": "Pudge",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/pudge.png"
+    },
+    {
+        "id": 80,
+        "name": "Pugna",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/pugna.png"
+    },
+    {
+        "id": 81,
+        "name": "Queen of Pain",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/queen_of_pain.png"
+    },
+    {
+        "id": 82,
+        "name": "Razor",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/razor.png"
+    },
+    {
+        "id": 83,
+        "name": "Riki",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/riki.png"
+    },
+    {
+        "id": 84,
+        "name": "Rubick",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/rubick.png"
+    },
+    {
+        "id": 85,
+        "name": "Sand King",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/rubick.png"
+    },
+    {
+        "id": 86,
+        "name": "Shadow Demon",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/shadow_demon.png"
+    },
+    {
+        "id": 87,
+        "name": "Shadow Shaman",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/shadow_shaman.png"
+    },
+    {
+        "id": 88,
+        "name": "Silencer",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/silencer.png"
+    },
+    {
+        "id": 89,
+        "name": "Skywrath Mage",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/skywrath_mage.png"
+    },
+    {
+        "id": 90,
+        "name": "Slardar",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/slardar.png"
+    },
+    {
+        "id": 91,
+        "name": "Slark",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/slark.png"
+    },
+    {
+        "id": 92,
+        "name": "Snapfire",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/snapfire.png"
+    },
+    {
+        "id": 93,
+        "name": "Sniper",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/sniper.png"
+    },
+    {
+        "id": 94 ,
+        "name": "Spectre",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/spectre.png"
+    },
+    {
+        "id": 95 ,
+        "name": "Spectre",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/spectre.png"
+    },
+    {
+        "id": 96 ,
+        "name": "Storm Spirit",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/storm_spirit.png"
+    },
+    {
+        "id": 97 ,
+        "name": "Sven",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/sven.png"
+    },
+    {
+        "id": 98 ,
+        "name": "Techies",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/techies.png"
+    },
+    {
+        "id": 99 ,
+        "name": "Templar Assassin",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/templar_assassin.png"
+    },
+    {
+        "id": 100 ,
+        "name": "Terrorblade",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/terrorblade.png"
+    },
+    {
+        "id": 101 ,
+        "name": "Tidehunter",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/tidehunter.png"
+    },
+    {
+        "id": 102 ,
+        "name": "Timbersaw",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/timbersaw.png"
+    },
+    {
+        "id": 103 ,
+        "name": "Tinker",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/tinker.png"
+    },
+    {
+        "id": 104 ,
+        "name": "Tiny",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/tiny.png"
+    },
+    {
+        "id": 105 ,
+        "name": "Treant Protector",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/treant.png"
+    },
+    {
+        "id": 106 ,
+        "name": "Troll Warlord",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/troll_warlord.png"
+    },
+    {
+        "id": 107 ,
+        "name": "Tusk",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/tusk.png"
+    },
+    {
+        "id": 108 ,
+        "name": "Underlord",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/underlord.png"
+    },
+    {
+        "id": 109 ,
+        "name": "Undying",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/undying.png"
+    },
+    {
+        "id": 110 ,
+        "name": "Ursa",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/ursa.png"
+    },
+    {
+        "id": 111 ,
+        "name": "Vengeful Spirit",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/vengeful_spirit.png"
+    },
+    {
+        "id": 112 ,
+        "name": "Venomancer",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/venomancer.png"
+    },
+    {
+        "id": 113 ,
+        "name": "Viper",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/viper.png"
+    },
+    {
+        "id": 114 ,
+        "name": "Visage",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/viper.png"
+    },
+    {
+        "id": 115 ,
+        "name": "Void Spirit",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/void_spirit.png"
+    },
+    {
+        "id": 116 ,
+        "name": "Warlock",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/warlock.png"
+    },
+    {
+        "id": 117 ,
+        "name": "Weaver",
+        "primary_attr": "AGILE",
+        "image": "../images/heroes/weaver.png"
+    },
+    {
+        "id": 118 ,
+        "name": "Windrunner",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/windrunner.png"
+    },
+    {
+        "id": 119 ,
+        "name": "Winter Wyvern",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/winter_wyvern.png"
+    },
+    {
+        "id": 120 ,
+        "name": "Io",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/wisp.png"
+    },
+    {
+        "id": 121 ,
+        "name": "Witch Doctor",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/witch_doctor.png"
+    },
+    {
+        "id": 122 ,
+        "name": "Wraith King",
+        "primary_attr": "STRENGTH",
+        "image": "../images/heroes/wraith_king.png"
+    },
+    {
+        "id": 123 ,
+        "name": "Zeus",
+        "primary_attr": "INTELLIGENCE",
+        "image": "../images/heroes/zeus.png"
+    }
+]
